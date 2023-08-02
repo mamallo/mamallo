@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Nikko Mamallo
 
-Hacker, tinkerer, and Technology Director at [Meet Sanctuary](https://meetsanctuary.com/). 🤓
+Web Application Developer at [USPA](https://uspa.org). 👨‍💻
+
+Former Technology Director at Meet Sanctuary. 🧘‍♂️
 
 Side projects mostly include LEDs and wearables. 💡
 
